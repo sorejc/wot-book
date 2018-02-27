@@ -15,4 +15,3 @@ In more technical terms it is all about Node.js, JavaScript, HTTP, WebSockets fo
  
  [Get Building the Web of Things!](http://book.webofthings.io)
 
-A test change from JS
